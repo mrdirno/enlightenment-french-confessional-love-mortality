@@ -1,0 +1,160 @@
+{
+  "book_id": "enlightenment-french-confessional-love-mortality",
+  "title": "The Unreasoned Heart: A Confession in Paris",
+  "tagline": "A dying philosopher hires a historian to document the one thing his life of logic could not explain: a love that defied reason and defined his mortality.",
+  "target_words": 70000,
+  "actual_words": 72241,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Failure of Pure Reason",
+    "Love as Unassimilable Truth",
+    "The Architecture of a Lifelong Silence",
+    "Confronting Mortality Through Narrative"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Liar's Light",
+      "words": 3000
+    },
+    {
+      "ch": 2,
+      "title": "The Terms of Witness",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The First Artifact",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "Paris, 1968: The First Cracks",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Solène",
+      "words": 3500
+    },
+    {
+      "ch": 6,
+      "title": "A Philosophy of Flesh",
+      "words": 3400
+    },
+    {
+      "ch": 7,
+      "title": "The Inadmissible Proof",
+      "words": 3100
+    },
+    {
+      "ch": 8,
+      "title": "The Calculus of Betrayal",
+      "words": 3300
+    },
+    {
+      "ch": 9,
+      "title": "The Unwritten Letter",
+      "words": 3000
+    },
+    {
+      "ch": 10,
+      "title": "The Consequence",
+      "words": 3500
+    },
+    {
+      "ch": 11,
+      "title": "The Fifty-Year Edit",
+      "words": 3200
+    },
+    {
+      "ch": 12,
+      "title": "The Historian's Doubt",
+      "words": 2900
+    },
+    {
+      "ch": 13,
+      "title": "Diaries of a Ghost",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "The Second Artifact",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "A Visit to the Pitié-Salpêtrière",
+      "words": 2800
+    },
+    {
+      "ch": 16,
+      "title": "The Question in the Letter",
+      "words": 3600
+    },
+    {
+      "ch": 17,
+      "title": "Confessing the Confession",
+      "words": 3300
+    },
+    {
+      "ch": 18,
+      "title": "The Witness Becomes Accomplice",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Last Lecture",
+      "words": 2900
+    },
+    {
+      "ch": 20,
+      "title": "Burning the Treatise",
+      "words": 3500
+    },
+    {
+      "ch": 21,
+      "title": "The Final Equation",
+      "words": 3200
+    },
+    {
+      "ch": 22,
+      "title": "The Document",
+      "words": 3000
+    },
+    {
+      "ch": 23,
+      "title": "The Choice",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "The Unfinished Reflection",
+      "words": 3100
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where the historian, Élise, discovers a second, hidden artifact among Lucien's effects that contradicts his spoken confession.",
+      "Imagine a chapter from Solène's perspective in 1968, detailing the moment she wrote the fateful letter.",
+      "Create a modern-day interlude where a former student of Lucien's reads Élise's published document and is forced to re-evaluate their mentor.",
+      "Draft a speculative 'alternate ending' where Lucien, in his youth, made a different choice, and trace its consequences in a brief vignette."
+    ],
+    "technical": [
+      "Build a 'Silence Analyzer' tool that takes a text and highlights omissions, hesitations, and thematic gaps, visualizing the 'unspoken' structure of a confession.",
+      "Create a dual-timeline narrative website where scrolling through Lucien's present-day confession in Paris seamlessly reveals fragments of the 1968 love story."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Marcel Proust",
+      "Simone de Beauvoir",
+      "Michel de Montaigne",
+      "Marguerite Duras"
+    ]
+  },
+  "cover_prompt": "An elderly philosopher, his face a map of profound intellect and deeper sorrow, clutches a single, faded photograph while gazing out a rain-streaked Parisian window, his life's work of logical treatises lying forgotten on a cluttered desk, [Detailed Scene & Context: in a dim, book-lined study atop a Montmartre apartment at dusk, with a view of the Sacré-Cœur silhouette through the glass, scattered papers, an empty cognac glass, and a single lit lamp illuminating the ghost of a smile on his weary face], [Artistic Style & Medium: in the atmospheric, emotionally resonant style of a John Atkinson Grimshaw nocturnal interior, with the textured brushwork and poignant realism of Edward Hopper, rendered in rich oil painting], [Composition & Camera: book cover framing, a centered and intimate composition with a shallow depth of field, shot from a low angle to emphasize the philosopher's stature and isolation against the vast window], [Lighting & Color Palette: dramatic chiaroscuro lighting from the solitary desk lamp, casting long shadows and highlighting the photograph in his hands, within a melancholic palette of deep burgundy, aged gold, Prussian blue, and soft sepia tones], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
